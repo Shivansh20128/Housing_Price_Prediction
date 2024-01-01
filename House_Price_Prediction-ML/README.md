@@ -218,4 +218,13 @@ The dataset contains details of more than 20000 houses. These details include im
 We have trained four models on this dataset.
 
 ## Linear Regression
-![Alt text](code.png)
+<img src="code2.png" alt="Alt text" width="500">
+
+## KNN Regression
+<img src="code.png" alt="Alt text" width="500">
+
+## Random Forest Regression
+<img src="code3.png" alt="Alt text" width="500">
+
+## Gradient Boost Regression
+<img src="code4.png" alt="Alt text" width="500">
