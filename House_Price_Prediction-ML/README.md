@@ -5,19 +5,6 @@ Predicting Housing Prices using a dataset from California
 The dataset contains details of more than 20000 houses. These details include importamt factors like number of bedrooms, location of the house, nearby localities, etc which are the deciding factors in determining the price of the house. A glimpse of the dataset can be seen below.
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -218,13 +205,13 @@ The dataset contains details of more than 20000 houses. These details include im
 We have trained four models on this dataset.
 
 ## Linear Regression
-<img src="code2.png" alt="Alt text" width="500">
+<img src="code2.png" alt="Alt text" width="800">
 
 ## KNN Regression
-<img src="code.png" alt="Alt text" width="500">
+<img src="code.png" alt="Alt text" width="800">
 
 ## Random Forest Regression
-<img src="code3.png" alt="Alt text" width="500">
+<img src="code3.png" alt="Alt text" width="800">
 
 ## Gradient Boost Regression
-<img src="code4.png" alt="Alt text" width="500">
+<img src="code4.png" alt="Alt text" width="800">
